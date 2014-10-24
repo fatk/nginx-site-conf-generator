@@ -1,15 +1,15 @@
 {
-  "name": "nginx-site-conf-generator",
+  "name": "nginx-utils",
   "version": "0.0.1",
   "description": "A simple script to generate nginx site specific configuration file.",
-  "homepage": "https://github.com/fatk/nginx-site-conf-generator",
+  "homepage": "https://github.com/fatk/nginx-utils",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fatk/nginx-site-conf-generator.git"
+    "url": "https://github.com/fatk/nginx-utils.git"
   },
   "keywords": [
     "nginx"
@@ -17,9 +17,10 @@
   "author": "Karl Fathi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fatk/nginx-site-conf-generator/issues"
+    "url": "https://github.com/fatk/nginx-utils/issues"
   },
   "dependencies": {
-    "commander": "*"
+    "commander": "*",
+    "chalk": "*"
   }
 }

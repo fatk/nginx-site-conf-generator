@@ -1,6 +1,6 @@
-nginx-site-conf-generator
+nginx-utils
 =========================
 
-A simple script to generate nginx site specific configuration file.
+A simple script to generate specific nginx-related files and perform actions.
 
-This script is meant to answer custom needs and should not be used as-is.
+These scripts are meant to answer custom needs and should not be used as-is.
