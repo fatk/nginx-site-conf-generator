@@ -1,7 +1,7 @@
 {
   "name": "nginx-utils",
-  "version": "0.0.1",
-  "description": "A simple script to generate nginx site specific configuration file.",
+  "version": "0.0.2",
+  "description": "A collection of scripts meant to create or modify specific nginx-related files and perform actions.",
   "homepage": "https://github.com/fatk/nginx-utils",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "commander": "*",
-    "chalk": "*"
+    "chalk": "*",
+    "handlebars": "*",
+    "untildify": "*"
   }
 }
