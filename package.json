@@ -23,6 +23,7 @@
     "commander": "*",
     "chalk": "*",
     "handlebars": "*",
-    "untildify": "*"
+    "untildify": "*",
+    "prompt": "*"
   }
 }
